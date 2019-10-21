@@ -8,5 +8,7 @@ while True:
         print('プログラムを終了します')
         break
     # -- ここに処理を追加してみよう --
+    elif input_num == 334:
+        print("なんでや！阪神関係ないやろ！")
     else:
         print('該当するコマンドがありません')
