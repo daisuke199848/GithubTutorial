@@ -10,5 +10,7 @@ while True:
     # -- ここに処理を追加してみよう --
     elif input_num == 334:
         print("なんでや！阪神関係ないやろ！")
+    elif input_num == 1:
+        print("aiueo")
     else:
         print('該当するコマンドがありません')
